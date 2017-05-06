@@ -1,0 +1,67 @@
+{
+  "cars": [
+    {
+      "make": "Nissan",
+      "model": "Rogue",
+      "year": "2006",
+      "price": "8999",
+      "description": "This is an immaculate 2006 Nissan Rogue with only 25000 miles on it. Leather seats, power everything."
+    },
+    {
+      "make": "Toyota",
+      "model": "Camry",
+      "year": "2007",
+      "price": "11999",
+      "description": "This is an immaculate 2007 Toyota Camry with only 15000 miles on it. Leather seats, power everything."
+    },
+    {
+      "make": "Infinity",
+      "model": "G37",
+      "year": "2013",
+      "price": "9999",
+      "description": "This is an immaculate 2013 Infinity G37 with only 5000 miles on it. Leather seats, power everything."
+    },
+    {
+      "make": "BMW",
+      "model": "X6",
+      "year": "2011",
+      "price": "14999",
+      "description": "This is an immaculate 2011 BMW X6 with only 12000 miles on it. Leather seats, power everything."
+    },
+    {
+      "make": "Honda",
+      "model": "Accord",
+      "year": "2005",
+      "price": "4999",
+      "description": "This is an immaculate 2005 Honda Accord with only 100000 miles on it. Leather seats, power everything."
+    },
+    {
+      "make": "Nissan",
+      "model": "Altima",
+      "year": "2013",
+      "price": "9999",
+      "description": "This is an immaculate 2013 Nissan Altima with only 17000 miles on it. Leather seats, power everything."
+    },
+    {
+      "make": "Nissan",
+      "model": "Sentra",
+      "year": "2008",
+      "price": "5999",
+      "description": "This is an immaculate 2008 Nissan Sentra with only 8450 miles on it. Leather seats, power everything."
+    },
+    {
+      "make": "Toyota",
+      "model": "Carolla",
+      "year": "2011",
+      "price": "8999",
+      "description": "This is an immaculate 2011 Toyota Carolla with only 6700 miles on it. Leather seats, power everything."
+    },
+    {
+      "make": "Honda",
+      "model": "Civic",
+      "year": "2005",
+      "price": "3999",
+      "description": "This is an immaculate 2005 Honda Civic with only 75000 miles on it. Leather seats, power everything."
+    }
+  ]
+}
